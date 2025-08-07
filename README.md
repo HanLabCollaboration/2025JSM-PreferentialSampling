@@ -7,6 +7,6 @@ This repository consists of three html files:
 2. [Examining the presence of preferential sampling in Northern California using a joint model of the observation process and site-selection process](R/2_JSM2025-PreferentialSampling-AirPollutionModeling.html).
 3. [Investigating the impact of preferential sampling and measurement error in a case study]().
 
-Slides can be found here (will be uploaded after JSM).
+Slides can be [found here](slides/JSM2025-TaeYoonLee-public-version.pdf).
 
 The codes are based on the tutorial developed by [Jones et al. (2024)](https://arxiv.org/abs/2304.10006).
